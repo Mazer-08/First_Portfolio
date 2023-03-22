@@ -1,0 +1,114 @@
+body{
+    text-align: center;
+    background: #CAFDFF;
+}
+
+.intro{
+   /* positioning and spacing*/
+   margin: 200px auto auto auto;
+
+   /* border */
+
+
+   /* appearance */
+}
+
+.saby{
+    /* positioning and spacing*/
+    position: absolute;
+    right: 85%;
+    top: 5%;
+    /* border */
+
+    /* appearance */
+    width: 70px;
+    border-radius: 40px;
+    background-color: #a9b7c4;
+}
+.cloud{
+    /* positioning and spacing*/
+    position: absolute;
+    right: 25%;
+    top: 10%;
+    /* border */
+
+    /* appearance */
+}
+
+.mountain{
+    width: 60%;
+}
+
+h1{
+    font-family: pacifico;
+}
+
+h2{
+    font-family: 'Signika Negative', sans-serif;
+}
+h3{
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: bolder;
+}
+
+p{
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.profile{
+    width: 50%;
+    display: inline-block;
+}
+.me{
+    width: 20%;
+    border-radius: 80%;
+}
+
+.skill1{
+    width: 60%; padding: 10px; padding-top: 50px;
+}
+.dsa{
+    display: inline-block; width: 20%; padding: 40px; 
+}
+.skill-row-1{
+    display: inline-block;
+    text-align: left;
+    position: absolute;
+    width: 40%;
+    left: 45%;
+}
+
+.skill2{
+    width: 60%; 
+    padding: 10px; 
+    padding-top: 50px;
+}
+.web{
+    position: relative;
+    left: 70%;
+    bottom: 50%;
+    display: inline-block; 
+    width: 20%; 
+    padding: 40px;
+}
+.skill-row-2{
+    display: inline-block;
+    text-align: left;
+    position: absolute;
+    width: 40%;
+    left: 25%;
+}
+.cp{
+    position: relative;
+    left: 70%;
+    bottom: 50%;
+    display: inline-block; 
+    width: 40%; 
+    padding: 40px;
+    border-radius: 19%;
+}
+.footer-link{
+    margin-left: 5px;
+    margin-right: 5px;
+    /* padding: 4rem; */
+}
